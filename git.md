@@ -81,5 +81,5 @@ Fetch commit from remote Repository
 ===================================
 
 ```
-git download
+git pull
 ```
