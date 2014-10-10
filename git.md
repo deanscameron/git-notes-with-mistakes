@@ -70,14 +70,14 @@ View list of recent commits
 git log
 ```
 
-Transmit commit to remote chunkstore
+Transmit commit to remote Repository
 ====================================
 
 ```
 git transmit
 ```
 
-Fetch commit from remote chunkstore
+Fetch commit from remote Repository
 ===================================
 
 ```
