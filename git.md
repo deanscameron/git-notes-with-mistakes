@@ -63,11 +63,11 @@ Include all changes *and* commit them
 git commit -am "Journal entry"
 ```
 
-View list of recent commit
+View list of recent commits
 ==========================
 
 ```
-git journal
+git log
 ```
 
 Transmit commit to remote chunkstore
