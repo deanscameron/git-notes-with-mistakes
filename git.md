@@ -74,7 +74,7 @@ Transmit commit to remote Repository
 ====================================
 
 ```
-git transmit
+git push
 ```
 
 Fetch commit from remote Repository
