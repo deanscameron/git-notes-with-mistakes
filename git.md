@@ -19,8 +19,9 @@ Activating Git
 To turn on the version control system, use:
 
 ``` bash
+mkdir my_work_folder
 cd my_work_folder
-git begin
+git init
 ```
 
 Tell Git about a new file
